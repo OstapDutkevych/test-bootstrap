@@ -1,2 +1,2 @@
 # test-bootstrap
-![Dream Music!](/assets/images/philly-magic-gardens.jpg "Music")
+![Dream Music!](/img/images.jpeg "Music")
